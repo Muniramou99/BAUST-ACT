@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1553430673 source:e:\baust act\baust act\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"function.h"
+
+1553432293 e:\baust act\baust act\function.h
+
+1554115298 source:e:\final main project\baust act\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"function.h"
+
+1554115265 e:\final main project\baust act\function.h
+
+1554115298 source:e:\mou\1-1,1-2\baust\baust act(c-project)1-ii\final main project\baust act\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"function.h"
+
+1554115265 e:\mou\1-1,1-2\baust\baust act(c-project)1-ii\final main project\baust act\function.h
+
